@@ -1,6 +1,4 @@
 ### Hi there, I'm Hari Seelam! 👋
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966](https://user-images.githubusercontent.com/70966011/134941986-3625db6e-9d68-46a1-9db4-faeba617b630.gif)
-
 <!--
 **hseelam/hseelam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
